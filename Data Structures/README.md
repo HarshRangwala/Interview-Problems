@@ -1,10 +1,9 @@
 # Data Structures and Algorithms
 ### Linked List
-/***
 
-| __Animals__ | __Sports__ | __Fruits__ |
+| __Linked list__ | 
 |-------------|------------|------------|
-| Cat         | Soccer     | Apple      |
+| Meaning     | Soccer     | Apple      |
 | Dog         | Basketball | Orange     |
 
-***/
+
