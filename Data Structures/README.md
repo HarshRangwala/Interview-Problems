@@ -1,2 +1,3 @@
-# ML Competitions
- Solutions by me for various ML/DL/CV competitions
+# Data Structures and Algorithms
+### Linked List
+### Stack
