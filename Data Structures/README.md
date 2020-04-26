@@ -3,3 +3,4 @@
 ### Stack
 ### Queue
 ### Binary Tree
+### Trie
