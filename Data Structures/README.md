@@ -5,3 +5,4 @@
 ### Binary Tree
 ### Trie
 ### Hash Table
+### Merge Sort
