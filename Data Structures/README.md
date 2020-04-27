@@ -4,3 +4,4 @@
 ### Queue
 ### Binary Tree
 ### Trie
+### Hash Table
