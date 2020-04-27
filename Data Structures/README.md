@@ -52,7 +52,7 @@ The main advantage of Hash Table is that it allows direct access to its items. H
 ### Merge Sort
 
 Merge sort arranges the elements by using devide and conquer strategy. It recursively splits the list into halves then the algorithm sorts the elements and performs, the fundamental operation, called merge. Merging takes two smaller sorted list and combines the into a single, sorted list. Merge sort is an efficient sorting algorithm with an overall time complexity of __O(n log n)__ and space complexity of __O(n)__ .
-<hr>
+<hr> ></hr>
 ## Important links 
 
 * [Big O cheatsheet](https://www.bigocheatsheet.com/)
